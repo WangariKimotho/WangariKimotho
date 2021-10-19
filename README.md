@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WangariKimotho
 - 👀 I’m interested in DATASCIENCE AND DEEP LEARNING 
-- 🌱 I’m currently learning NLP AND Computer Vision
+- 🌱 I’m currently learning NLP and Computer Vision
 - 💞️ I’m looking to collaborate on DataScience projects and climate analysis with a deep learning approach.
 - 📫 How to reach me :here:)
 
