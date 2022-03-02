@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Computer Vision,GIS
 - 💞️ I’m looking to collaborate on DataScience projects and climate analysis with a deep learning approach.
 - 📫 How to reach me :here:)
+- 👀 Also Check out my python pro progress on codewars here:https://www.codewars.com/users/WangariKimotho
 
 <!---
 WangariKimotho/WangariKimotho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
