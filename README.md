@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WangariKimotho
 - 👀 I’m interested in DATASCIENCE AND DEEP LEARNING 
-- 🌱 I’m currently learning Computer Vision,GIS
-- 💞️ I’m looking to collaborate on DataScience projects and climate analysis with a deep learning approach.
+- 🌱 I’m currently learning Full Stack Deep Learning and Knowledge Graph models.
+- 💞️ I’m looking to collaborate on Machine Learning projects with a deep learning approach.
 - 📫 How to reach me :here:)
 - 👀 Also Check out my python pro progress on codewars here:https://www.codewars.com/users/WangariKimotho
 
