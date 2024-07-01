@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @WangariKimotho
-- 👀 I’m interested in DATASCIENCE AND DEEP LEARNING 
-- 🌱 I’m currently learning Full Stack Deep Learning and SWE best practices.
-- 💞️ I’m looking to collaborate on Machine Learning projects applied to geospatial data or computer vision projects.
+- 👋 Hi, I’m @WangariKimotho.
 - 📫 How to reach me :here:)
 - 👀 Also Check out my python pro progress on codewars here:https://www.codewars.com/users/WangariKimotho
 
